@@ -13,8 +13,8 @@ Muestra el historial en un esquema de ramas.
 `git log --oneline --graph`
 Muestra el historial en una sola línea en un esquema de ramas.
 
-`git log -5`
-Muestra los últimos 5 commits
+`git log -n`
+Muestra los últimos n commits
 
 `git log --after="2019-12-17 00:00"`
 Muestra el historial después de la fecha y hora indicada
