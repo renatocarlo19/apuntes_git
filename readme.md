@@ -18,3 +18,13 @@ git config --global user.email "renato.carlo19@comunidad.unam.mx"
 git config --global core.editor Atom
 git config --list
 ```
+
+Algunos commits importantes
+
+`git log --decorate --graph --oneline --all`
+
+`git tag -a mi_etiqueta -m "Mensaje"`
+
+`git show #23493 o etiqueta`
+
+`git tag nombre_etiqueta #hash`
