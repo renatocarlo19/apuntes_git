@@ -28,3 +28,5 @@ Algunos commits importantes
 `git show #23493 o etiqueta`
 
 `git tag nombre_etiqueta #hash`
+
+Esta línea fue creada en la rama master.
