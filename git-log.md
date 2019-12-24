@@ -22,5 +22,5 @@ Muestra el historial después de la fecha y hora indicada
 `git log --before="2019-12-17 00:00"`
 Muestra el historial antes de la fecha y hora indicada
 
-`gi log --decorate --oneline --graph --all `
+`git log --decorate --oneline --graph --all `
 Este comando nos muestra TODO el historial en una sola línea por commit.
